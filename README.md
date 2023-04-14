@@ -3,9 +3,13 @@
 Link: https://main--cappelloni-educationalgame.netlify.app
 
 1) Full name: Stacy Cappelloni
+   
    Student ID: 2339576
+   
    Chapman email: cappelloni@chapman.edu
+   
    Course number and section: CPSC 458-01
+   
    Assignment or exercise number: Project 3: Educational Game 
 
 2) List of all source files submitted for the assignment:

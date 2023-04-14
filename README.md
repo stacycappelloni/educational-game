@@ -1,5 +1,7 @@
 # educational-game
 
+Link: https://main--cappelloni-educationalgame.netlify.app
+
 1) Full name: Stacy Cappelloni
    Student ID: 2339576
    Chapman email: cappelloni@chapman.edu
@@ -23,8 +25,6 @@ B. https://stackoverflow.com/questions/29884654/button-that-refreshes-the-page-o
 
 5) Instructions for running the assignment:
 
-1. Ensure that Tkinter is installed (https://docs.python.org/3/library/tkinter.html)
-
-2. Run the app using the command: python3 main.py
+1. Visit https://main--cappelloni-educationalgame.netlify.app
 
 
